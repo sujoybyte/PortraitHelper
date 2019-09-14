@@ -1,5 +1,5 @@
 # PortraitHelper
-Organize portrait photos in "/DCIM/Camera"  created with Google Camera.
+This app helps to organize portrait photos in the "/DCIM/Camera" folder created by Google Camera.
 
 ## Maintainers
 This project is mantained by:
