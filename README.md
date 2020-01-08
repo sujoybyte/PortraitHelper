@@ -1,4 +1,4 @@
-# Portrait Helper
+# Project pH
 This app helps to organize portrait photos in the "/DCIM/Camera" folder created by Google Camera.
 
 ## Maintainers
@@ -8,7 +8,7 @@ This project is mantained by:
 ## Installation
 Clone this repository and import into **Android Studio**
 ```
-$ git clone https://github.com/sujoyself/PortraitHelper.git
+$ git clone https://github.com/sujoyself/Project_pH.git
 ```
 
 
