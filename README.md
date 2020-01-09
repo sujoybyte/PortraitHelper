@@ -1,4 +1,4 @@
-# Project pH
+# Portrait Helper (Project pH)
 This app helps to organize portrait photos in the "/DCIM/Camera" folder created by Google Camera.
 
 ## Maintainers
